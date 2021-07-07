@@ -19,6 +19,8 @@ Model | Input Size | FPS on 520 | FPS on 720 | Model Size | Rank 1 Accuracy | Ra
 
 [mobilenetv2](https://github.com/kneron/Model_Zoo/tree/main/classification/MobileNetV2),  [resnet18](https://github.com/kneron/Model_Zoo/tree/main/classification/ResNet18) and [resnet50](https://github.com/kneron/Model_Zoo/tree/main/classification/ResNet50) are models pre-trained on ImageNet classification dataset. [FP_classifier](https://github.com/kneron/Model_Zoo/tree/main/classification/FP_classifier) is a model pre-trained on our own dataset for classifying person and background images.
 
+Resnet50 is currently under training for Kneron preprocessing.
+
 ## Pre-trained Detection Models
 Backbone | Input Size |  FPS on 520 | FPS on 720  | Model Size | mAP
 --- | --- |:---:|:---:|:---:|:---:
