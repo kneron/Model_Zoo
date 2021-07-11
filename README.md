@@ -14,7 +14,7 @@ Model | Input Size | FPS on 520 | FPS on 720 | Model Size | Rank 1 Accuracy | Ra
 --- | --- |:---:|:---:|:---:|:---:|:---:
 [mobilenetv2](https://github.com/kneron/Model_Zoo/tree/main/classification/MobileNetV2)| 224x224 | 58.9418 | 620.677 | 14M | 69.82% | 89.29%
 [resnet18](https://github.com/kneron/Model_Zoo/tree/main/classification/ResNet18)| 224x224 | 20.4376 | 141.371 | 46.9M | 66.46% | 87.09%
-[resnet50](https://github.com/kneron/Model_Zoo/tree/main/classification/ResNet50)| 224x224 | 6.32576 | 49.0828 | 102.9M | - | -
+[resnet50](https://github.com/kneron/Model_Zoo/tree/main/classification/ResNet50)| 224x224 | 6.32576 | 49.0828 | 102.9M |  72.80% | 90.91%
 [FP_classifier](https://github.com/kneron/Model_Zoo/tree/main/classification/FP_classifier) | 56x32 | 323.471 | 3370.47 | 5.1M | 94.13% | -
 
 [mobilenetv2](https://github.com/kneron/Model_Zoo/tree/main/classification/MobileNetV2),  [resnet18](https://github.com/kneron/Model_Zoo/tree/main/classification/ResNet18) and [resnet50](https://github.com/kneron/Model_Zoo/tree/main/classification/ResNet50) are models pre-trained on ImageNet classification dataset. [FP_classifier](https://github.com/kneron/Model_Zoo/tree/main/classification/FP_classifier) is a model pre-trained on our own dataset for classifying person and background images.
